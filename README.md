@@ -46,6 +46,8 @@ I also serve as **CTO of Divine Reach**, a next-generation marketing agency focu
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-GoHighLevel-00A6FB?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zapier-FF4A00?&style=for-the-badge&logo=Zapier&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CloseBot-1E4D9B?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
