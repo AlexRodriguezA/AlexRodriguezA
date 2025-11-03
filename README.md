@@ -9,7 +9,7 @@
 
 ## About Me
 Cybersecurity Advisor and Entrepreneur specializing in detection engineering, automation, and technical operations.  
-I help enterprises strengthen their security posture across Elastic, Splunk, Sentinel, and Qualys ecosystems while mentoring professionals through **Vantage Hub**—a program dedicated to helping 9–5 workers transition into cybersecurity through hands-on lab development and real-world application.  
+I help enterprises strengthen their security posture across Elastic, Splunk, Sentinel, and Qualys ecosystems while mentoring professionals through **Vantage Hub** a program dedicated to helping 9–5 workers transition into cybersecurity through hands-on lab development and real-world application.  
 
 I also serve as **CTO of Divine Reach**, a next-generation marketing agency focused on backend automation, AI-driven infrastructure, and scalable operational systems that empower creators, entrepreneurs, and service-based businesses to grow profitably and predictably.  
 
